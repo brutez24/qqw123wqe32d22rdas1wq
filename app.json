@@ -1,0 +1,20 @@
+{
+  "name": "Pm Uye Ekleme",
+  "description": "Pm Den Yazmış Olanları Gruba Ekleme",
+  "repository": "https://github.com/Inansenden92/PmUyeEkleme.git",
+  "logo": "",
+  "keywords": ["telegram", "game", "pyrogram","telegram bot"],
+  "env": {
+     "STRING": {
+      "description": "String Seassion Unuzu Giriniz!"
+    },
+    "channelList": {
+      "description": "Mesajın Alınacağı Kanalları Girin!!(1 den fazla kanalı , ile ayırın!)",
+    }
+   },
+   "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
