@@ -9,7 +9,7 @@
       "description": "String Seassion Unuzu Giriniz!"
     },
     "channelList": {
-      "description": "Mesajın Alınacağı Kanalları Girin!!(1 den fazla kanalı , ile ayırın!)",
+      "description": "Mesajın Alınacağı Kanalları Girin!!(1 den fazla kanalı , ile ayırın!)"
     }
    },
    "buildpacks": [
